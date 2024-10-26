@@ -1,5 +1,14 @@
 
-# Grazioso Salvare Dashboard
+## Reflection on Project Two
+
+### 1. How do you write programs that are maintainable, readable, and adaptable?
+Creating maintainable, readable, and adaptable code is essential to ensure that programs are usable in the long term. To achieve this, I prioritize clear variable names, consistent formatting, and modular functions that are each responsible for specific tasks. In Project One, I focused on building a structured CRUD Python module that connects the dashboard widgets to the database in Project Two. This modular approach allowed each CRUD operation to be managed separately, simplifying debugging and future updates. Additionally, clear commenting helped make the code more readable and easy to understand. The CRUD module from Project One is designed in a way that it could be reused in similar applications requiring database interactions, making it adaptable for future projects.
+
+### 2. How do you approach a problem as a computer scientist?
+When approaching a problem as a computer scientist, I break it down into smaller tasks and identify the essential components that need to be developed, tested, and integrated. For instance, with the Grazioso Salvare project, I first analyzed the database requirements and established a clear schema, then connected it to the dashboard for data visualization and filtering. Compared to previous assignments, this project required a more advanced understanding of both database design and user interaction, challenging me to integrate front-end and back-end components smoothly. In the future, I’d continue using an organized approach that involves careful planning, modular code design, and thorough testing to meet client requests for database-driven applications.
+
+### 3. What do computer scientists do, and why does it matter?
+Computer scientists design, analyze, and develop systems to solve specific problems, making processes more efficient, scalable, and user-friendly. In the case of a company like Grazioso Salvare, a well-designed dashboard can provide immediate insights into rescue animal data, helping them to make data-driven decisions more effectively. By categorizing and visualizing rescue data, this type of project can streamline operations and enhance their response capabilities, demonstrating the practical impact computer science can have on real-world problems. My work on this project supports Grazioso Salvare in improving the management and accessibility of crucial information, ultimately enabling them to perform their work more efficiently.
 
 ## Overview
 The Grazioso Salvare dashboard is a dynamic, fully-functional web application built to enable users to visualize and interact with a MongoDB database of rescue animal data. With features tailored for the unique needs of rescue operations, the dashboard allows users to filter, categorize, and analyze data across various rescue scenarios.
